@@ -1,0 +1,22 @@
+
+.sidebar-container {
+
+    width:5rem;
+    height:100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+}
+.sidebar{
+    height:50%;
+    width:90%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: #1ED760;
+}
